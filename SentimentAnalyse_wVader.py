@@ -42,5 +42,3 @@ for item in reviewList:
 
 print("VADER ANALYSE\n"+"Pos: "+ str(positive_val)+"\n"+ "Neg: "+ str(negative_val)+"\n"+"Neutr: "+ str(neutr_val)+"\n")
 
-
-

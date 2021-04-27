@@ -46,5 +46,3 @@ for i in range(len(sentimented)):
         
 
 print("TEXTBLOB ANALYSE\n"+"Pozitif: "+str(positive)+"\nNegatif: "+str(negative)+"\nNötr: "+str(notr))
-
-    
